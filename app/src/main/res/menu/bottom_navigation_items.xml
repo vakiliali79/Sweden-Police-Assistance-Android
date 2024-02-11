@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/incidents"
+        android:enabled="true"
+        android:icon="@drawable/event_icon"
+        android:title="Incidents"  />
+    <item
+        android:id="@+id/stations"
+        android:enabled="true"
+        android:icon="@drawable/station_icon"
+        android:title="Stations" />
+    <item
+        android:id="@+id/about"
+        android:enabled="true"
+        android:icon="@drawable/info_icon"
+        android:title="About" />
+</menu>
