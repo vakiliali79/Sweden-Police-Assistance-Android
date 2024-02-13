@@ -12,7 +12,7 @@ CrimeTracker is an Android Kotlin application designed for the Swedish Police to
 
 ## Installation and Execution
 
-[Download APK](Sweden-Police.apk)
+[Download APK](https://raw.githubusercontent.com/vakiliali79/Sweden-Police-Assistance-Android/master/Sweden-Police.apk)
 
 To install and run the CrimeTracker app, follow these steps:
 
